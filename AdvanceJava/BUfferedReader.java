@@ -1,11 +1,13 @@
 package AdvanceJava;
+import java.util.*;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.io.IOException;
 
 public class BUfferedReader {
 
-    public static void main(String args[]) {
+    public static void main(String args[]) throws IOException{
         System.out.println("Hello");
 
         InputStreamReader in = new InputStreamReader(System.in);
