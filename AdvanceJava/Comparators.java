@@ -34,6 +34,8 @@ public class Comparators {
 
         Collections.sort(nums,com);
 
-        System.out.print(nums);
+       //for each method
+
+       nums.forEach(n -> System.out.println(n));
     }
 }
