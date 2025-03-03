@@ -2,7 +2,7 @@ package AdvanceJava;
 import java.util.*;
 import java.util.ArrayList;
 
-public class Comparators {
+public class Comparatorss {
     public static void main (String args []){
 
     //    Comparator<Integer> com =new Comparator<Integer>() {
